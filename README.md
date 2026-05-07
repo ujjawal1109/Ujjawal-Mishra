@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ujjawal Mishra</h1>
-<h3 align="center">A student for 4th semester from India</h3>
+<h3 align="center">Computer Science Engineering Student | 4th Semester | MRIIRS</h3>
 
 - 🔭 I’m currently working on **Personal AI Agent**
 
